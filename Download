@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cv052922/Awid-/refs/heads/main/Script"))()
